@@ -1,0 +1,4 @@
+Izmir Ankara 19 9
+Istanbul Bursa 12 7
+Mugla Manisa 13 6
+Istanbul Paris 03 5
